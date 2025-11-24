@@ -28,6 +28,9 @@ print(U)
 Screenshot: <img width="1471" height="760" alt="Screenshot 2025-11-24 100023" src="https://github.com/user-attachments/assets/d99af81f-cf7d-41d5-963d-9ed10c0c44d1" />
 
 ```
+Developed by: BALAMURUGAN.K
+RegisterNumber: 25017932
+
 (ii) To find the LU Decomposition of a matrix
 ```
 Program to find the LU Decomposition of a matrix.
