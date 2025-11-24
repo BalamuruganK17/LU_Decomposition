@@ -16,7 +16,6 @@ To write a program to find the LU Decomposition of a matrix.
 ## Program:
 (i) To find the L and U matrix
 ```
-/*
 Program to find the L and U matrix.
 ```
 import numpy as np
@@ -28,14 +27,12 @@ print(U)
 ```
 Developed by: BALAMURUGAN.K
 RegisterNumber: 25017932
-*/
 
 Screenshot: <img width="1471" height="760" alt="Screenshot 2025-11-24 100023" src="https://github.com/user-attachments/assets/d99af81f-cf7d-41d5-963d-9ed10c0c44d1" />
 
 ```
 (ii) To find the LU Decomposition of a matrix
 ```
-/*
 Program to find the LU Decomposition of a matrix.
 ```
 import numpy as np
@@ -48,7 +45,6 @@ print(x)
 ```
 Developed by: BALAMURUGAN.K
 RegisterNumber: 25017932
-*/
 
 Screenshot: <img width="1447" height="739" alt="Screenshot 2025-11-24 100209" src="https://github.com/user-attachments/assets/ae9e843f-ada4-4284-bd2a-8d5d70b97780" />
 
