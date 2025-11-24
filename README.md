@@ -25,9 +25,6 @@ P ,L ,U = lu(A)
 print(L)
 print(U)
 ```
-Developed by: BALAMURUGAN.K
-RegisterNumber: 25017932
-
 Screenshot: <img width="1471" height="760" alt="Screenshot 2025-11-24 100023" src="https://github.com/user-attachments/assets/d99af81f-cf7d-41d5-963d-9ed10c0c44d1" />
 
 ```
@@ -43,12 +40,12 @@ lu,pivot=lu_factor(A)
 x=lu_solve((lu,pivot),B)
 print(x)
 ```
-Developed by: BALAMURUGAN.K
-RegisterNumber: 25017932
-
 Screenshot: <img width="1447" height="739" alt="Screenshot 2025-11-24 100209" src="https://github.com/user-attachments/assets/ae9e843f-ada4-4284-bd2a-8d5d70b97780" />
 
 ```
+Developed by: BALAMURUGAN.K
+RegisterNumber: 25017932
+
 
 ## Output1:<img width="1442" height="610" alt="Screenshot 2025-11-24 100100" src="https://github.com/user-attachments/assets/4a3335f4-7ce4-45f6-a994-dc0610c8b8dd" />
 
